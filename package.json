@@ -18,5 +18,8 @@
   "homepage": "https://github.com/webertmaciel/RedimencionandoImagem#readme",
   "dependencies": {
     "sharp": "^0.29.2"
+  },
+  "devDependencies": {
+    "compress-images": "^1.9.9"
   }
 }
