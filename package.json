@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/webertmaciel/RedimencionandoImagem#readme",
   "dependencies": {
+    "gifsicle": "^5.2.1",
+    "pngquant-bin": "^6.0.1",
     "sharp": "^0.29.2"
   },
   "devDependencies": {
